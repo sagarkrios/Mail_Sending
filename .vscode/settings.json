@@ -1,0 +1,32 @@
+{
+	"prettier.printWidth": 120,
+	"editor.indentSize": "tabSize",
+	"editor.tabSize": 2,
+	"editor.formatOnSave": true,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.formatOnSave": true
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features",
+		"editor.formatOnSave": true
+	},
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features",
+		"editor.formatOnSave": false
+	},
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features",
+		"editor.formatOnSave": true
+	},
+	"[css]": {
+		"editor.defaultFormatter": "vscode.css-language-features",
+		"editor.formatOnSave": true
+	},
+	"css.format.newlineBetweenRules": false,
+	"css.format.spaceAroundSelectorSeparator": true,
+	"[scss]": {
+		"editor.defaultFormatter": "vscode.css-language-features",
+		"editor.formatOnSave": true
+	},
+}
